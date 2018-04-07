@@ -1,0 +1,39 @@
+{
+  "status":1,
+  "result":{
+    "list":[
+      {
+        "employeeId":"00001",
+        "employeeName":"emma",
+        "employeeContent":"she is a YouTobe Blogger",
+        "parts":[
+          {
+            
+          }
+        ]
+      },
+      {
+        "employeeId":"00002",
+        "employeeName":"Mark",
+        "employeeContent":"he is a worker",
+        "parts":[
+          {
+            
+          }
+        ]
+      },
+      {
+        "employeeId":"00003",
+        "employeeName":"George",
+        "employeeContent":"He lives in California,and he has three brothers and sisters",
+        "parts":[
+          {
+            
+          }
+        ]
+      }
+    ]
+  },
+  "message":""
+}
+
